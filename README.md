@@ -1,2 +1,2 @@
 # rsschool-cv
-[Madina1408](https://github.com/Madina1408/rsschool-cv.git)
+[Madina1408](https://Madina1408.github.io/rsschool-cv/)
