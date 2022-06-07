@@ -1,2 +1,2 @@
 # rsschool-cv
-RS school_Task 1
+[Madina1408](https://github.com/Madina1408/rsschool-cv.git)
