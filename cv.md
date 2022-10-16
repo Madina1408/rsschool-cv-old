@@ -12,7 +12,9 @@ I'm a graduate student at the university, about a year ago I decided to change m
 
 ###Skills: 
 
-- HTML5, CSS3, 
+- HTML5, CSS3
+- Javascript
+- React JS 
 - Excel
 - Power BI, Power Query
 - VBA
@@ -37,8 +39,8 @@ function solution(number){
 
 ###Courses:
 - TechLabs: Data Science in Python
-- JavaScript full course on [Mohirdev.uz](https://mohirdev.uz) (in progress)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- JavaScript full course on [Mohirdev.uz](https://mohirdev.uz) 
+- RS Schools Course «JavaScript/Front-end. Stage 0» 
 
 
 ### Languages:
