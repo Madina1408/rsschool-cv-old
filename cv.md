@@ -1,5 +1,5 @@
 
-#madina Karimjonova
+#Madina Karimjonova
 ---
 ###Contacts:
 - __Discord:__ Madina Karimjonova#5711
